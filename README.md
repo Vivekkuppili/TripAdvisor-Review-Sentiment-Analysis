@@ -46,7 +46,4 @@ start_urls = [
 ]
 scrape_tripadvisor_reviews_multiple(start_urls, max_pages=5, output_file="tripadvisor_reviews_all_hotels.csv")
 
-## Just a quick note
-This is for personal or school projects. Please don't use it to scrape tons of data or for commercial stuff. TripAdvisor might block you if you go overboard.
 
-If you run into any problems or have questions, feel free to ask for help. Good luck and happy scraping!
